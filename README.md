@@ -75,5 +75,6 @@ to DELETE - http DELETE :7000/api/penguins id==[insert existing id]
 
 ## Change Log
 05-7-2018 5:30pm - Application POST function created and passing all tests.
+05-13-2018 7:50pm - Successfully linked to Heroku deployment.
 
 ## Credits and Collaborations
